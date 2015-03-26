@@ -1,0 +1,52 @@
+.inner {
+width: 800px;
+    p {
+    text-align: center;
+    }
+
+    .contBox {
+        margin: 0 auto;
+   width: 780px;
+        height: 600px;
+        background: url('../img/2000px-Bicycle_diagram-en.svg.png') no-repeat ;
+        background-size: 100%;
+      #nav {
+      border: 6px solid red;
+          width: 774px;
+          height: 594px;
+      li {
+      width: 200px;
+          height: 60px;
+          display: block;
+
+      }
+          li:hover {
+              background-color: dimgray;
+          }
+      .frame {
+      background-color: aqua;
+      }
+      .saddle {
+      background-color: deeppink;
+      }
+          .handle {
+          background-color: chartreuse;
+
+          }
+          .pedal {
+          background-color:darkorchid;
+
+          }
+          .wheel {
+          background-color:chocolate;
+          }
+          .tire {
+          background-color: darkorange;
+          }
+
+
+      }
+
+    }
+
+}

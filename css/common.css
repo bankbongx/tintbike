@@ -1,0 +1,34 @@
+.inner {
+  width: 800px; }
+  .inner p {
+    text-align: center; }
+  .inner .contBox {
+    margin: 0 auto;
+    width: 780px;
+    height: 600px;
+    background: url("../img/2000px-Bicycle_diagram-en.svg.png") no-repeat;
+    background-size: 100%; }
+    .inner .contBox #nav {
+      border: 6px solid red;
+      width: 774px;
+      height: 594px; }
+      .inner .contBox #nav li {
+        width: 200px;
+        height: 60px;
+        display: block; }
+      .inner .contBox #nav li:hover {
+        background-color: dimgray; }
+      .inner .contBox #nav .frame {
+        background-color: aqua; }
+      .inner .contBox #nav .saddle {
+        background-color: deeppink; }
+      .inner .contBox #nav .handle {
+        background-color: chartreuse; }
+      .inner .contBox #nav .pedal {
+        background-color: darkorchid; }
+      .inner .contBox #nav .wheel {
+        background-color: chocolate; }
+      .inner .contBox #nav .tire {
+        background-color: darkorange; }
+
+/*# sourceMappingURL=common.css.map */
